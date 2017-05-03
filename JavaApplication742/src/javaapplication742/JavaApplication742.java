@@ -16,6 +16,7 @@ public class JavaApplication742 {
      */
     public static void main(String[] args) {
         System.out.println("This is my test");
+        System.out.println("Test adding/changing some code");
     }
     
 }
